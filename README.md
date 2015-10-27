@@ -1,6 +1,6 @@
 # Say Hello
 
-## Objectives
+## Objectives!
 
 1. Recognize a default argument.
 2. Build a method that can take in an optional argument, with a default.
