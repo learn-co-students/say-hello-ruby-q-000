@@ -1,1 +1,17 @@
-# Build your say_hello method here
+
+# describe "say_hello" do 
+  
+#   it 'accepts an argument of a name and prints out Hello with that Name' do
+#     expect($stdout).to receive(:puts).with("Hello Kent Beck!")
+#     say_hello("Kent Beck")
+#   end
+
+#   it 'defaults to Ruby Programmer when no name is passed in' do
+#     expect($stdout).to receive(:puts).with("Hello Ruby Programmer!")
+#     say_hello()
+#   end
+# end# Build your say_hello method here
+
+def say_hello(name = "Ruby Programmer")
+  puts "Hello #{name}!"
+end
