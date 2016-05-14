@@ -1,6 +1,6 @@
 # Say Hello
 
-## Objectives
+## Objectives!
 
 1. Build a method that can be called with an optional argument by defining that method with a default argument.
 
